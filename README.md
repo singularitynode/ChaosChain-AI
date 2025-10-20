@@ -94,8 +94,6 @@ Key capabilities include:
 │ - Alerts │
 └─────────────────┘
 
-yaml
-Copy code
 
 ---
 
